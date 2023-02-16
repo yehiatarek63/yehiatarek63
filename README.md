@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#Welcome to my profile. My Name is Yehia Tarek. I am a Computer Engineering Student.<br></br>
+# Welcome to my profile. My Name is Yehia Tarek. I am a Computer Engineering Student.<br></br>
 * 🌱 I’m currently learning Problem Solving and Web Development.<br></br>
 * 👯 I’m looking to collaborate on building fully functional web applications.<br></br>
 * 🤔 I’m looking for help with finding web related internships.<br></br>
